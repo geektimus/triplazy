@@ -148,9 +148,7 @@ lazy val commonSettings =
     // scalaVersion := "2.12.8",
     version := "0.1.0-SNAPSHOT",
     organization := "com.codingmaniacs.triplazy",
-    organizationName := "Coding Maniacs",
-    startYear := Some(2019),
-    licenses += ("Apache-2.0", new URL("https://www.apache.org/licenses/LICENSE-2.0.txt")),
+    headerLicense := Some(HeaderLicense.MIT("2019", "Geektimus")),
     scalacOptions ++= Seq(
       "-unchecked",
       "-deprecation",
