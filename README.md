@@ -12,7 +12,7 @@ This is a small project to test some frameworks and technologies that I want to 
 
 ## Contributing
 
-Please read [CONTRIBUTING.md][contributing] for details on our code of conduct, and the process for submitting pull requests to us.https://www.scala-lang.org/
+Please read [CONTRIBUTING.md][contributing] for details on our code of conduct, and the process for submitting pull requests to us.
 
 ## Versioning
 

@@ -1,6 +1,5 @@
 syntax = "proto3";
 
-import "google/protobuf/wrappers.proto";
 import "scalapb/scalapb.proto";
 
 package com.codingmaniacs.triplazy.protocol;
